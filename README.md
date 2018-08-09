@@ -4,7 +4,8 @@ This is a program that compare the main face recognition. It's made with python 
 *How to install*
 
 **Download Conda:** 
-  https://repo.anaconda.com/archive/Anaconda3-5.2.0-Linux-x86_64.sh
+    
+    https://repo.anaconda.com/archive/Anaconda3-5.2.0-Linux-x86_64.sh
 
 **Install anaconda**
     
