@@ -15,6 +15,7 @@ During the installation of the conda you will be asked the following question:
 
 Do you wish the installer to prepend the Anaconda3 install location
 to PATH in your /home/emanoel/.bashrc ? [yes|no]
+
 Type yes
 
     conda install pip
