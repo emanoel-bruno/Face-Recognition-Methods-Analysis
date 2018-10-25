@@ -1,4 +1,4 @@
-# Face_Recognition
+# Face Recognition Methods Analysis
 This is a program that compare the main face recognition. It's made with python 3.6 and the libraries "matplot-lib" and "opencv".
 
 ## How to install
